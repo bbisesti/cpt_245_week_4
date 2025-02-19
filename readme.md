@@ -61,6 +61,12 @@ By the end of this assignment you will have learned about REST APIs, the "Spring
    - Once you have modified your ClassesController.java and added the appropriate endpoints to your Postman "collection" please export your updated Postman collection as a .JSON file and overwrite the one in your local project.  Then please commit these changes to a GitHub public repository and submit the link to it in Brightspace!  
 
 
+   - once you are finished with your assignment please run the following command to completely wipe your virtual machine
+  
+     ```bash
+     vagrant destroy
+     ```
+
    
 3. **Please commit your code to a public GitHub repository**
     - Once you have completed all three tasks in your code please commit your updated python code to a public repository in GitHub!
